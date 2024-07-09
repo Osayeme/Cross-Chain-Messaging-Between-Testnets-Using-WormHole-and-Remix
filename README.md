@@ -34,8 +34,9 @@ Click on the "📄" button to create a new file.
 
 Name the file HelloWormhole.sol.
 
-Create file HelloWormhole.sol
-<img width="498" alt="image" src="https://github.com/Osayeme/Cross-Chain-Messaging-Between-Testnets-Using-WormHole-and-Remix/blob/main/assets/newfile.png">
+Create file HelloWormhole.sol.
+
+<img width="498" alt="create file picture" src="https://github.com/Osayeme/Cross-Chain-Messaging-Between-Testnets-Using-WormHole-and-Remix/blob/main/assets/newfile.png">
 
 
 
