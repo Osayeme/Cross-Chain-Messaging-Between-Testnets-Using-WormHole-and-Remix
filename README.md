@@ -43,6 +43,7 @@ Create file HelloWormhole.sol.
 
 ### Step 3: Paste the Smart Contract Code
 Open the newly created file and paste your smart contract code into it.
+``` solidity
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.13;
 
@@ -106,7 +107,8 @@ contract HelloWormhole is IWormholeReceiver {
         address senderContract = address(uint160(uint256(senderContractBytes)));
         emit GreetingReceived(latestGreeting, sourceChain, sender, senderContract);
     }
-}
+}```
+
 Step 4: Set Up Compiler and Optimization
 Go to the "Solidity Compiler" tab on the left.
 
